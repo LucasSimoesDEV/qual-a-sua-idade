@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(65, 82, 238);
+    font: ;
+    
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    background-color:  white;
+    border-radius:  10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 6px 6px 8px 8px  rgba(0, 0, 0, 0.5);
+
+}
+
+div{ text-align: center;
+    padding: 25px;
+
+}
+div#res{
+    font: normal 14pt arial;
+    font-style: oblique;
+}
+img{
+   
+    width: 350px;
+}
+
+footer{
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
